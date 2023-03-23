@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "90129202820",
+    "project_id": "esdee-colour-master",
+    "storage_bucket": "esdee-colour-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90129202820:android:e17630ec77133f19d2ccd1",
+        "android_client_info": {
+          "package_name": "com.esdeepaints.colourmaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90129202820-pr9js77irvckbg8g5qhr3d6j2v2mvvpn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAblM9YEqmzg1W5FkFnFwsQQDF6Jp6yg_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90129202820-pr9js77irvckbg8g5qhr3d6j2v2mvvpn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

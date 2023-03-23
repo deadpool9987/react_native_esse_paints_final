@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "Esdee - Colour Master",
+    "slug": "esdee-paints",
+    "version": "1.0.4",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "privacy": "unlisted",
+    "android": {
+      "package": "com.esdeepaints.colourmaster",
+      "googleServicesFile": "./google-services.json",
+      "versionCode": 104,
+      "useNextNotificationsApi": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a52b6e3a-2f55-42c5-8ed2-33ccf6e5961c"
+      }
+    }
+  }
+}
